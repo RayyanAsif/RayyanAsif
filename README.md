@@ -16,7 +16,3 @@ I expect an amazing journey ahead Thats all from my side!.
 ![My image](https://images.app.goo.gl/EhRGkFT8qY4QX5HDA)
 
 
-
-![My Image](images/my-image1.jfif)
-
-
