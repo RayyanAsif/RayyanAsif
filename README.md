@@ -11,4 +11,7 @@ RayyanAsif/RayyanAsif is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 ---
 Hello! This is Rayyan Asif, I did my A-level's from Cedar College. I chose CS for better career opportunity and I chose FAST becaue it was the only option I was left with.
-It expect an amazing journey ahead. 
+I expect an amazing journey ahead Thats all from my side!.
+
+
+
