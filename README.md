@@ -14,6 +14,6 @@ Hello! This is Rayyan Asif, I did my A-level's from Cedar College. I chose CS fo
 I expect an amazing journey ahead Thats all from my side!.
 
 
-![My Image](https://images.app.goo.gl/B118VuXCQEh2mrnLA)
+![My Image](images/my-image1.jfif)
 
 
