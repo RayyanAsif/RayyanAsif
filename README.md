@@ -7,7 +7,8 @@
 - ⚡ Fun fact: ...
 - 
 
-![the octocat](https://images.app.goo.gl/Td9nG7udruK5uNuUA)
+![the octocat](https://github.com/user-attachments/assets/c09cedfd-4fb4-40e2-ba4e-21fa005356cf)
+
 <!---
 RayyanAsif/RayyanAsif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
