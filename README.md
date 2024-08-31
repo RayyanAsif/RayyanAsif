@@ -7,7 +7,6 @@
 - ⚡ Fun fact: ...
 - 
 
-![the octocat](https://github.com/user-attachments/assets/c09cedfd-4fb4-40e2-ba4e-21fa005356cf)
 ![doreamon](https://static.wikia.nocookie.net/doraemon-wiki-hispana/images/2/2c/Nobita.png/revision/latest?cb=20210420112702&path-prefix=es)
 <!---
 RayyanAsif/RayyanAsif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
