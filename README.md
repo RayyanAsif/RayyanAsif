@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 - 
 
-![doreamon](https://static.wikia.nocookie.net/doraemon-wiki-hispana/images/2/2c/Nobita.png/revision/latest?cb=20210420112702&path-prefix=es)
+![Nobita](https://static.wikia.nocookie.net/doraemon-wiki-hispana/images/2/2c/Nobita.png/revision/latest?cb=20210420112702&path-prefix=es)
 <!---
 RayyanAsif/RayyanAsif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
