@@ -5,7 +5,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
 
+![the octocat](https://images.app.goo.gl/Td9nG7udruK5uNuUA)
 <!---
 RayyanAsif/RayyanAsif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -13,5 +15,5 @@ You can click the Preview link to take a look at your changes.
 Hello! This is Rayyan Asif, I did my A-level's from Cedar College. I chose CS for better career opportunity and I chose FAST becaue it was the only option I was left with.
 I expect an amazing journey ahead Thats all from my side!.
 
-![alt tt](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmyoctocat.com%2F&psig=AOvVaw20hgJYD-UEaBKYuYfEzvbI&ust=1725220219408000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNj0r6SAoIgDFQAAAAAdAAAAABAE)
+
 
